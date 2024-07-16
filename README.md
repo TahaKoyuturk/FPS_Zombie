@@ -7,11 +7,6 @@ Welcome to the **FPS Zombie Game**! This is an exciting and immersive first-pers
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 The FPS Zombie Game is a thrilling experience where players must navigate through various levels, manage their resources, and fend off increasingly difficult waves of zombies. This game is designed to test your shooting skills and survival instincts.
@@ -25,9 +20,14 @@ The FPS Zombie Game is a thrilling experience where players must navigate throug
 - **Leaderboard:** Compete with other players and see who can survive the longest.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+
+![Ekran görüntüsü 2024-07-17 010214](https://github.com/user-attachments/assets/860fc9a2-6e74-4d6d-943d-b60db9c88d57)
+
+![Ekran görüntüsü 2024-07-17 010347](https://github.com/user-attachments/assets/c2ff274c-c1ad-4f7c-86f0-fc38ce345442)
+
+![Ekran görüntüsü 2024-07-17 010413](https://github.com/user-attachments/assets/eb0fe535-56c7-45c6-b220-bedd8c4d3973)
+
+![Ekran görüntüsü 2024-07-17 010514](https://github.com/user-attachments/assets/98ae1505-67aa-4625-af95-edcf7867a4dc)
 
 ## Installation
 To get started with the FPS Zombie Game, follow these steps:
