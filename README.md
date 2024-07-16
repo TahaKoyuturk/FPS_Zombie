@@ -34,4 +34,4 @@ To get started with the FPS Zombie Game, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fps-zombie-game.git
+   git clone https://github.com/TahaKoyuturk/FPS_Zombie.git
